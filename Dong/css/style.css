@@ -23,6 +23,13 @@
 	list-style:none;
 }
 
+* {
+   box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   	margin: 0;
+  	padding: 0;
+}
 body {
 	font-family: 'Avo';
 }
@@ -72,7 +79,7 @@ body {
 .menu_right{
 	width: 900px;
 	height: 495px;
-	float: left;
+	float: right;
 }
 .menu_left_top{
 	height: 51px;
@@ -83,19 +90,91 @@ body {
 	padding-left: 30px;
 }
 .menu_right_top{
+	width: 900px;
 	height: 51px;
-	background-color: #ab9d78;	
+	background-color: #958458;	
 }
-.menu_left_main{
-	margin-left: 20px;
-	margin-right: 20px;
-}
-.menu_left_main tr td{
+.nav_left li{
 	width: 272px;
-	height: 43px;
-	padding-top: 10px;	
-	border-bottom: solid 1px #dcdcdc;
+	height: 45px;
+	border-left: solid 1px #dcdcdc;
+	position: relative;
 }
-.menu_left_main tr td:hover{
+.nav_left li:hover{
 	background-color: #ab9d78;
+	cursor: pointer;
+}
+.menu_left_item{
+	width: 250px;
+	height: 43px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border-bottom: dotted 2px #dcdcdc;
+    padding-top: 10px;
+}
+.menu_left_item img{
+	margin-right: 10px;
+}
+
+.menu_left_main{
+}
+.slider{
+	
+}
+.menu_right_top ul{
+	list-style-type: none; /*xóa dấu đầu dòng*/
+}
+.menu_right_top li{
+	display: inline-block;
+  	height: 51px;
+  	line-height: 51px;
+}
+.menu_right_top a{
+	font-size: 120%;
+	padding-right: 25px;
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+.menu_right_top a:hover{
+	background-color: #ab9d78;
+	text-decoration: none;
+	color: white;
+}
+.menu_active{
+	background-color: #ab9d78;
+	text-decoration: none;
+	color: white;	
+}
+.container{
+	margin-top: 120px;
+	width: 1172px;
+}
+.clear{
+	clear: both;
+}
+.chi_tiet_san_pham{
+	float: left;
+	width: 220px;
+	border: solid 1px #ececec;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+
+.mo_ta_san_pham{
+	text-align: center;
+}
+.don_gia{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+.chi_tiet_san_pham img{
+	padding-left: 10px;
+}
+.tieu_de{
+	font-weight: bold;
 }

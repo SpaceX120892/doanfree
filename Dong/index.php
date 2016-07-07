@@ -23,6 +23,9 @@
 			include 'view/menu.php';
 			?>
 		</div><!--End Menu-->
+		<div class="clear">
+			
+		</div><!--Clear float-->
 		<div class="container">
 			<?php
 			include 'view/container.php';
