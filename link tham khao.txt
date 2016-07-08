@@ -1,2 +1,20 @@
 ﻿[Tổ chức thư mục MVC]
 http://freetuts.net/mvc-php-xay-dung-cau-truc-folder-355.html
+______________________________________________
+2016/07/07
+[Khi thiết kế layout, nhiều khi quy định width là 100, nhưng set thêm thuộc tính border = 20px
+thì width tăng lên 120px, muốn chỉ định chính xác 100px là đã bao gồm border rồi thì đọc link bên dưới]
+
+[Link] http://thachpham.com/web-development/html-css/hoc-css-tim-hieu-box-sizing.html
+
+Note: Nên áp dụng tất cả và paste code sau vào css:
+* {
+   box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+}
+
+-Đối với đường dẫn có dạng URL (URL của ảnh chằng hạn), ko nên viết đường dẫn thuần, mà thêm cả url('path) vào
+-Tham khảo khái niệm clear float: http://thachpham.com/web-development/html-css/chia-cot-voi-float-va-clear-float.html
+-[trước khi viết css thì thêm cái này vào]: http://thachpham.com/web-development/html-css/reset-css-la-gi-va-vi-sao-nen-reset-css.html
+__________________________________________
