@@ -132,6 +132,171 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_45-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_49-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_50-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_51-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_45-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_49-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_50-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="chi-tiet-khoa-hoc img-thumbnail">
+					<img src="resource/img/image_51-420x420.jpg" width="240px" height="240px"/>
+					<div class="tac-gia">
+						<a href="#"><h5>Basic Cooking Techniques</h5></a>
+						<a href="#"><h6>Steven Granger</h6></a>
+					</div>
+					<div>
+						<div class="col-md-5">12 views</div>
+						<div class="col-md-7">
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+							<img src="resource/img/star-on.png"/>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 	</div>
 </div>
 
@@ -188,6 +353,7 @@
 				<div>
 					<div class="col-md-4">
 						<img src="resource/img/avatar_1-96x96.jpg" class="img-thumbnail img-circle" width="96px" height="96px">
+						<img src="resource/img/testimonial_bg.png" class="cus-img" width="96px" height="96px">
 					</div>
 					<div class="col-md-8">
 						<div class="noi-dung">

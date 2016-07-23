@@ -7,7 +7,13 @@
 }
 .header-top{
 	height: 100px;
-	background-color: #46566b;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#678faf+0,3f4f6b+100 */
+	background: #678faf; /* Old browsers */
+	background: -moz-linear-gradient(top,  #678faf 0%, #3f4f6b 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #678faf 0%,#3f4f6b 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #678faf 0%,#3f4f6b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#678faf', endColorstr='#3f4f6b',GradientType=0 ); /* IE6-9 */
+
 }
 .container-fluid{
 	padding: 0;
@@ -17,6 +23,7 @@
 }
 .slider{
 	margin-top: 100px;
+	height: 592px;
 	background-color: gray;
 	background-image: url('web_pattern_3.png');
 }
@@ -45,4 +52,13 @@
 }
 .noi-dung p{
 	text-align: justify;
+}
+.cus-img{
+	position: absolute;
+	left: 15px;
+}
+.my-menu a{
+	text-decoration: none;
+	color: white;
+	font-size: 130%;
 }

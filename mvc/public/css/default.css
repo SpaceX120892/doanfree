@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.header, .footer{
+    background: #678faf; /* Old browsers */
+    background: -moz-linear-gradient(top,  #678faf 0%, #3f4f6b 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #678faf 0%,#3f4f6b 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #678faf 0%,#3f4f6b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#678faf', endColorstr='#3f4f6b',GradientType=0 ); /* IE6-9 */
+}
+.container-fluid{
+    padding: 0px;
+}
+.center-screen{
+    width: 1024px;
+    margin: 0px auto;
+}
+.header li a{
+    color: white;
+    font-size: 120%;
+}
+.header .center-screen{
+    padding: 20px;
+}
+.dang-ky-theo-doi{
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.slider .center-screen{
+   
+}
+.slider{
+    margin-top: 77px;
+    background-image: url(../images/web_pattern_3.png);
+}
+.footer{
+    color: white;
+    font-size: 120%;
+}
+.tieu-de-cac-khoa-hoc{
+    margin-top: 10px;
+}
+.tieu-de{
+    font-weight: bold;
+    font-size: 110%;
+}
+.mo-ta-ngan-gon-noi-dung-khoa-hoc p{
+    font-style: italic;
+    margin-top: 10px;
+}
+.img-y-kien-nguoi-hoc{
+    position: relative;
+}
+.img-mask{
+    position: absolute;
+}
+.cac-khoa-hoc-moi p{
+    font-weight: bold;
+    font-size: 110%;
+    margin-top: 10px;
+}
+.marin-top-10{
+    margin-top: 10px;
+}
+.marin-bottom-10{
+    margin-bottom: 10px;
+}
+.text-can-hai-ben{
+    text-align: justify;
+}
+.text-in-nghieng{
+    font-style: italic;
+}
